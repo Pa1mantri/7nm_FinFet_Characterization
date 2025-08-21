@@ -265,3 +265,14 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 
 
 ```
+
+
+## Bandgap Reference Design Simulation
+
+| Sr.No | VDD (V) | Temp(C) | Vref(V) | Line Reg (mV/V) | Startup Time(ns) |
+| :---: | :-----: | :-----: | :-----: | :-------------: | :--------------: |
+|    1  |  0.8    |    27   |         |                 |                  |
+|    1  |  0.9    |    27   |         |                 |                  |
+|    1  |  1.0    |    27   |         |                 |                  |
+|    1  |  1.0    |   -40   |         |                 |                  |
+|    1  |  1.0    |   125   |         |                 |                  |
