@@ -20,3 +20,10 @@
 |  16   | 15     |   7    |    2.14   |  14    |   7    |    2      | -0.150 |  -0.08 |   -1.75e-15       |         25.3            |   6.42    | -0.034,0.045 | 1.29|    22.4       |     6.42   |
 |  17   | 27     |   7    |    3.85   |  25    |   7    |    3.57   | -0.149 |  -1.44 |   -3.13e-15       |         25.3            |   6.42    | -0.033,0.046 | 2.32|    22.4       |     6.42   |
 |  18   | 15     |   7    |    2.14   |  15    |   7    |    2.14   | -0.155 |  -0.86 |   -1.81e-15       |         25.3            |   6.42    | -0.032,0.043 | 1.32|    22.4       |     6.42   |
+
+
+Below are the imgaes of VTC curve, Id, gm and rout
+
+<img width="1412" height="569" alt="Image" src="https://github.com/user-attachments/assets/ee7c34ab-96f7-465e-ac27-7fa3b84b7ca1" />
+
+<img width="1407" height="566" alt="Image" src="https://github.com/user-attachments/assets/0da40353-0f71-4dd3-b2ec-f0094d8394cd" />
