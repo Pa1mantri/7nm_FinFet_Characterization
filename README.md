@@ -276,3 +276,15 @@ pre_osdi /home/vsduser/Desktop/asap_7nm_Xschem/bsimcmg.osdi
 |    1  |  1.0    |    27   |         |                 |                  |
 |    1  |  1.0    |   -40   |         |                 |                  |
 |    1  |  1.0    |   125   |         |                 |                  |
+
+
+Tried adding a resistor in the startup network between net6 and GND. ``R3 net6 GND 539`` or in the bias network ``R3 net1 net2 539``.
+
+Observation: Didn't observe any change in the reference voltage(Vref) due to either of these resistors.
+
+###Spice file 
+
+```
+
+
+```
