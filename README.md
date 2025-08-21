@@ -32,6 +32,8 @@ An additional DC source of 0.5v is added in series to the pulse signal.
 
 Changes made in the spice file:
 
+Changed the initial and final voltage values in the pulse signal so that the combined voltage doesn’t increase beyond VDD. Similarly, changed the values during the DC voltage sweep.
+
 <img width="1837" height="346" alt="Image" src="https://github.com/user-attachments/assets/cfa07547-fcc9-4cc0-86d5-675d516bb4d0" />
 
 Complete spice file:
