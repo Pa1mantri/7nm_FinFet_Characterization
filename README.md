@@ -27,3 +27,10 @@ Below are the imgaes of VTC curve, Id, gm and rout
 <img width="1412" height="569" alt="Image" src="https://github.com/user-attachments/assets/ee7c34ab-96f7-465e-ac27-7fa3b84b7ca1" />
 
 <img width="1407" height="566" alt="Image" src="https://github.com/user-attachments/assets/0da40353-0f71-4dd3-b2ec-f0094d8394cd" />
+
+An additional DC source of 0.5v is added in series to the pulse signal.
+
+Changes made in the spice file:
+
+
+
